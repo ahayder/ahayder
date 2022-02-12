@@ -1,2 +1,2 @@
 ### Hola 👋
-![Wake me up!](https://cdn.britannica.com/24/212324-050-076731DA/Persian-cat-sleeping.jpg)
+![Ali's github stats](https://github-readme-stats.vercel.app/api?username=ahayder&count_private=true)
